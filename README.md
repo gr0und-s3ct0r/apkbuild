@@ -11,3 +11,8 @@ $ docker run \
     4383/apkbuild \
     newapkbuild test
 ```
+
+## Useful links
+- [create alpine linux packages](https://wiki.alpinelinux.org/wiki/Creating_an_Alpine_package)
+- [propose new packages](https://github.com/alpinelinux/aports)
+- [official packages list](https://pkgs.alpinelinux.org/packages)
