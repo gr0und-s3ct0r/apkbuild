@@ -1,7 +1,7 @@
 FROM alpine:latest
 LABEL maintainer="herveberaud.pro@gmail.com"
 
-ENV PACKAGER="Hervé Beraud <herveberaud.pro@gmail.com>" \
+ENV PACKAGER="Sebastien Boyron <sebastien@boyron.eu>" \
     USERNAME="packager"
 
 RUN apk update && apk --no-cache add \
